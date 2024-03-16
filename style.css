@@ -628,9 +628,12 @@ button:focus {
 
 .mu-author-social {
 	display: inline;
-	float: left;
-	margin-top: 25px;
-	width: 100%;
+	/* margin-top: 55px; */
+	padding-top: 100px;
+	position: absolute;
+	padding-right: 50px;
+  	right: 0;
+
 }
 
 .mu-author-social a {
@@ -819,6 +822,9 @@ button:focus {
 
 .mu-author-sign{
 	height: 80px;
+	position: absolute;
+  right: 0;
+  padding-right: 50px;
 }
 
 .mu-testimonial-slide .mu-rt-img-demo {
