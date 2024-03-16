@@ -816,6 +816,15 @@ button:focus {
 	display: inline-block;
 }
 
+.mu-testimonial-slide .mu-rt-img-demo {
+	border-radius: 5%;
+	/* width: 100px;
+	height: 100px; */
+	max-height: 500px;
+	margin-top: 25px;
+	display: inline-block;
+}
+
 .mu-rt-name {
 	margin-bottom: 5px;
 	color: #fff;
