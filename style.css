@@ -814,6 +814,11 @@ button:focus {
 	height: 100px;
 	margin-top: 25px;
 	display: inline-block;
+
+}
+
+.mu-author-sign{
+	height: 80px;
 }
 
 .mu-testimonial-slide .mu-rt-img-demo {
